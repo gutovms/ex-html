@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -6,14 +7,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ex013</title>
 </head>
+
 <body style=font-family: Arial, Helvetica, sans-serif;">
+
     <h1 style="color:blueviolet;">Capítulo 1</h1>
+    
     <h2>Capítulo 1.1</h2>
+    
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores vitae laboriosam ipsam? Id temporibus laboriosam veritatis atque quod animi voluptatum labore, eos molestiae iure molestias tenetur omnis mollitia assumenda fugit!</p>
     <h2>Capítulo 1.2</h2>
+    
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, eos iusto soluta nisi porro quisquam id necessitatibus, debitis aliquam enim dignissimos explicabo voluptates molestiae. Fuga nam esse suscipit asperiores mollitia!</p>
     <h1 style="color:blueviolet;">Capítulo 2</h1>
+    
     <h2>Capítulo 2.1</h2>
+    
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima minus, maiores iusto enim esse nostrum quia aperiam ipsam illo veniam voluptate soluta, voluptatibus quibusdam provident alias suscipit aliquam eum expedita.</p>
 </body>
+
 </html>
