@@ -1,1 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ex014</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+        h1{
+            color: blueviolet;
+            background-color: beige;
+        }
+        h2 {
+            color: plum;
+            background-color: antiquewhite;
+        }
+        p {
+            color: purple;
+            background-color: azure;
+        }
+    </style>
+</head>
+<body>
+    <h1>Capítulo 1</h1>
+    <h2>Capítulo 1.1</h2>
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Asperiores vitae laboriosam ipsam? Id temporibus laboriosam veritatis atque quod animi voluptatum labore, eos molestiae iure molestias tenetur omnis mollitia assumenda fugit!</p>
+    <h2>Capítulo 1.2</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic, eos iusto soluta nisi porro quisquam id necessitatibus, debitis aliquam enim dignissimos explicabo voluptates molestiae. Fuga nam esse suscipit asperiores mollitia!</p>
+    <h1>Capítulo 2</h1>
+    <h2>Capítulo 2.1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima minus, maiores iusto enim esse nostrum quia aperiam ipsam illo veniam voluptate soluta, voluptatibus quibusdam provident alias suscipit aliquam eum expedita.</p>
+</body>
+</html>
 
+</body>
+</html>
