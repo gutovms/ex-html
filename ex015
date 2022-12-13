@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
-    <title>ex015</title>
+    <title>ex014</title>
    
 </head>
 
@@ -28,6 +28,8 @@
     <h2>Capítulo 2.1</h2>
 
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima minus, maiores iusto enim esse nostrum quia aperiam ipsam illo veniam voluptate soluta, voluptatibus quibusdam provident alias suscipit aliquam eum expedita.</p>
+
+    <p><a href="pagina02.html">Ir para página 2</a></p>
     
 </body>
 
