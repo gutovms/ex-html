@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ex024</title> 
+    <style>
+
+    </style>
+</head>
+
+<body>
+    
+    <h1 id="principal">Criando Sites com HTML e CSS</h1>
+
+    <h1>Aprendendo HTML</h1>
+
+    <h2>HTML básico</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam magni soluta ipsa ducimus dolorum possimus doloribus repellendus, distinctio expedita sit quae. Adipisci corrupti cupiditate ex voluptates voluptatum enim temporibus provident!</p>
+
+    <h2>HTMl intermediário</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A sed totam fugit similique, dolore rem expedita eius nostrum impedit quaerat magnam perspiciatis assumenda praesentium laborum, non sequi incidunt quasi voluptatibus.</p>
+
+    <h2>HTMl avançado</h2>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rem, culpa fugit. Doloribus ipsa omnis, obcaecati necessitatibus eligendi dicta! Amet magni non dolores earum est pariatur dolorem minus facere quaerat unde?</p>
+
+    <h1>Aprendendo CSS</h1>
+    
+    <h2>CSS básico</h2>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolores mollitia optio esse fugiat id. Voluptatum saepe libero repudiandae consequuntur beatae nobis mollitia, possimus tempora nisi, commodi optio porro vitae maiores.</p>
+
+    <h2>CSS intermediário</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis eveniet cupiditate commodi nam repellat tempora laborum exercitationem facilis, perspiciatis obcaecati vel, maiores provident quibusdam, quod voluptatibus? Corporis eaque iusto eveniet.</p>
+
+    <h2>CSS avançado</h2>
+
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis dolorum provident fugiat at quae illum labore est id dolor magni nemo, laborum tempora, assumenda ex eveniet sequi doloremque earum ipsa.</p>
+
+</body>
+
+</html>
