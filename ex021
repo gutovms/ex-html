@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>ex018</title> 
+</head>
+
+<body>
+    
+    <h1>Trabalhando com fontes</h1>
+    
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque quasi saepe, omnis voluptatibus nam expedita quod perspiciatis eveniet reprehenderit. Unde esse, modi deleniti odit optio quam quis aut sunt repudiandae?</p>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis vitae corporis, quasi voluptatum debitis velit fuga? Ex illum suscipit nihil quia animi magni eos ad aut maxime inventore, tempore assumenda.</p>
+
+    <h2>Subtítulo do exercício</h2>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate harum eius vero officia recusandae, suscipit rem modi sit? Deleniti cumque velit laudantium pariatur molestiae enim ipsum voluptatum officiis modi obcaecati?</p>
+    
+</body>
+
+</html>
