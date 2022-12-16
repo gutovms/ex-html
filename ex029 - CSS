@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+/*
+    Em HTML é id = em CSS é #
+    Em HTML é class = em CSS é . 
+    Em HTML é pseudo-classe = em CSS :
+    Em HTML é pseudo-element = em CSS ::
+    Em HTML é children = em CSS >
+    
+*/
+
+body {
+    
+     /*
+        shorthand font
+
+        - font-style -> font-weigth ->  font-size -> font-family 
+     */
+    
+     font: normal 16px Arial, Helvetica, sans-serif;
+     background-color: #d4d7d5;
+}
+
+a {
+    color:#ff0000;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: #8b0000;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #ffff00;
+}
+
+.especial::after {
+    content: ' ⇐';
+    text-decoration: none;
+    font-weight: normal;
+    color: #000000;
+}
+
+.especial::before {
+    content: '⇒ ';
+    text-decoration: none;
+    font-weight: normal;
+    color: #000000 ;
+}
+
+.especial {
+    background-color: rgb(255, 140, 140);
+   
+}
