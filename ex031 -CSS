@@ -1,4 +1,4 @@
- @charset "UTF-8";
+@charset "UTF-8";
 
 /*
     Em HTML é id = em CSS é #
@@ -32,13 +32,14 @@ header {
 nav {
     background-color: #f7f7f7;
     padding: 8px 3px 5px 5px;
+    box-shadow: 5px 3px 7px 1px black;
 }
 
 nav > a {
     text-decoration: none;
     color: #000000;
     font-weight: bold;
-    margin: 30px 15px 0px 0px;
+    margin: 30px 15px 0px 0px;''
 
 }
 
@@ -78,10 +79,10 @@ footer {
 }
 
 footer > p {
-    background-color: #ffffff;
+
     color: #000000;
     text-align: center;
     width: 100%;
+    margin: 0px;
 }
-
 
