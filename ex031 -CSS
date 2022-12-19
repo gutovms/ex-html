@@ -26,6 +26,7 @@ header {
     background-color: #00b1a8;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px;
 
 }
 
@@ -33,14 +34,15 @@ nav {
     background-color: #f7f7f7;
     padding: 8px 3px 5px 5px;
     box-shadow: 5px 3px 7px 1px black;
+    border-radius: 5px;
 }
 
 nav > a {
     text-decoration: none;
     color: #000000;
     font-weight: bold;
-    margin: 30px 15px 0px 0px;''
-
+    margin: 30px 15px 0px 0px;
+    
 }
 
 nav > a:hover {
@@ -52,14 +54,14 @@ nav > a:hover {
 main {
     background-color: #00b1a857;
     padding: 10px ;
-    margin: 10px
+    margin: 10px;
+    border-radius: 10px;
 }
 
 article{
     background-color: #ffffff;
     padding: 10px;
     
-
 }
 
 article > aside {
@@ -68,6 +70,7 @@ article > aside {
     width: 23%;
     text-align: center;
     margin: auto;
+    border-radius: 10px;
 }
 
 footer {
